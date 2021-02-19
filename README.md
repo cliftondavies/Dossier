@@ -1,1 +1,1 @@
-# Personal website with Codersrank Widgets
+# Personal website with CodersRank Widgets
