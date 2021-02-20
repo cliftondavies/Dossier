@@ -84,7 +84,9 @@ header h1 {
 
 .subtitle span[role="img"] {
   vertical-align: middle;
+  font-family: apple color emoji, segoe ui emoji, noto color emoji, android emoji, emojisymbols, emojione mozilla, twemoji mozilla, segoe ui symbol;
   font-size: 1.5em;
+  font-weight: normal;
 }
 
 .contacts a {
